@@ -1,2 +1,18 @@
-# ai-chatbot
-Beginner AI chatbot project built with Python for learning artificial intelligence and machine learning concepts.
+# AI Chatbot
+
+A simple AI chatbot built using Python.
+
+## Features
+- Answers simple questions
+- Beginner-friendly AI project
+- Uses Python programming
+
+## Technologies Used
+- Python
+
+## How to Run
+
+```bash
+python chatbot.py
+AUTHOR
+#Surafel Endale
